@@ -1,4 +1,4 @@
-# resume-job-fit-classification
+# resume_job_fit_classification
 Capstone project for ML Zoomcamp: a supervised machine learning model that predicts candidate-job compatibility by classifying resumes as No Fit, Potential Fit, or Good Fit for a given job description.
 
 ## Business Goal
