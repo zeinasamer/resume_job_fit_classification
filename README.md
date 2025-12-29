@@ -1,5 +1,5 @@
-# resume-ats-scoring-system
-Capstone project for ML Zoomcamp: a supervised machine learning model that predicts ATS-style compatibility scores between resumes and job descriptions.
+# resume-job-fit-classification
+Capstone project for ML Zoomcamp: a supervised machine learning model that predicts candidate-job compatibility by classifying resumes as No Fit, Potential Fit, or Good Fit for a given job description.
 
 ## Business Goal
 _TODO: Describe the business problem this project is solving._
