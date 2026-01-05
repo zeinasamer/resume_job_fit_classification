@@ -5,3 +5,5 @@ datasets
 matplotlib
 seaborn
 jupyter
+fastapi
+uvicorn
