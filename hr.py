@@ -16,6 +16,6 @@ response = requests.post(url, json=candidate)
 if response.status_code == 200:
     result = response.json()
     print("Fit Probability:", result["fit_probability"])
-    print("Prediction:", result["Prediction"])
+    print("Prediction:", result["prediction"])
 else:
     print("Error:", response.status_code, response.text)
