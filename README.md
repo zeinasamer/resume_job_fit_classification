@@ -112,6 +112,7 @@ Open the terminal and run:
 ```bash
 git clone https://github.com/zeinasamer/resume_job_fit_classification.git
 cd resume_job_fit_classification
+```
 
 Or visit the repo: (https://github.com/zeinasamer/resume_job_fit_classification)
 
@@ -121,6 +122,7 @@ Build the Docker image and install all dependencies defined in `pyproject.toml` 
 
 ```bash
 docker build -t resume-job-fit-api .
+```
 
 ### Step 3: Run the Docker Container
 
