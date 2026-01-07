@@ -127,7 +127,7 @@ docker build -t resume-job-fit-api .
 Run the container and expose the API on port **9696**.
 
 ```bash
-docker run -p 9696:9696 resume-job-fit-api
+docker run -p 9696:9696 resume-job-fit-api .
 
 The API is now running and accessible at http://localhost:9696.
 
