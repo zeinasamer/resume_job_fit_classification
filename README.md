@@ -96,14 +96,14 @@ This project exposes a **REST API** that predicts whether a candidate is a **Goo
 
 The service is fully containerized using **Docker** for easy setup and reproducibility.
 
----
+
 
 ### Prerequisites
 
 - Docker installed
 - Git installed
 
----
+
 
 ### Step 1: Clone the Repository
 
@@ -130,6 +130,7 @@ Run the container and expose the API on port **9696**.
 
 ```bash
 docker run -p 9696:9696 resume-job-fit-api .
+```
 
 The API is now running and accessible at http://localhost:9696.
 
